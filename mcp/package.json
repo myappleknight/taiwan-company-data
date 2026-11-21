@@ -1,0 +1,33 @@
+{
+  "name": "twdata-mcp",
+  "version": "1.1.0",
+  "description": "MCP server for the Taiwan Company Data API: search Taiwan companies, officers, filings and a same-name-aware relationship graph",
+  "type": "module",
+  "bin": {
+    "twdata-mcp": "server.mjs"
+  },
+  "files": [
+    "server.mjs",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "taiwan",
+    "company-data",
+    "kyc",
+    "due-diligence",
+    "business-registry"
+  ],
+  "license": "MIT",
+  "mcpName": "io.github.myappleknight/twdata",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myappleknight/taiwan-company-data.git",
+    "directory": "mcp"
+  },
+  "homepage": "https://api.easylifehub.net/tw/"
+}
