@@ -1,6 +1,10 @@
 # Taiwan Company Data API
 
-Look up any of about 2 million Taiwan businesses by name or 8-digit ID (統一編號) and get clean, English-keyed JSON:
+Look up any of about 2 million Taiwan businesses by name or 8-digit ID (統一編號) and get clean, English-keyed JSON.
+
+[![45-second demo video](https://img.youtube.com/vi/8uMnnIKycLc/hqdefault.jpg)](https://youtu.be/8uMnnIKycLc)
+
+What you get:
 
 - Registry facts: status, capital, address, industries, setup date, headquarters and branches
 - Directors, supervisors and managers, with shareholdings and history since 2013
